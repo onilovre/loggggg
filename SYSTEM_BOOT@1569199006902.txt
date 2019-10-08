@@ -1,0 +1,7 @@
+Build: unknown
+Hardware: daudio
+Revision: 4096
+Bootloader: unknown
+Radio: unknown
+Kernel: Linux version 3.1.10-tcc (vmadmin@KRDMAED09R) (gcc version 4.6.x-google 20120106 (prerelease) (GCC) ) #1 SMP PREEMPT Fri Jul 27 11:19:53 KST 2018
+

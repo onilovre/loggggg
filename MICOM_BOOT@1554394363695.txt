@@ -1,0 +1,119 @@
+======== Micom BootMode Responses ======== 
+ Boot Mode : DOOR_OPEN(0x7)
+ Micom Boot Reason : NORMAL(0x0)
+ Regulation Status : false
+ Fron/Rear Camera Status : CAMERAOFF(0x0)
+ Illuminance Status : false
+ Last AV Power Status : AVON(0x2)
+ Last Audio Mode : XM1(0x4)
+ Acc Status : false
+ Acc Mode : DELAYMODE(0x3)
+ IGN Status : false
+ Alternate Status : false
+ Fuel Warning Status : false
+ AUX Connection Status : false
+ QLS Status : false
+ Mute Status : false
+ Reverse Status : false
+ Factory Auto Status : false
+ CD Ejected Status : false
+ VEQ : false
+ Surround : false
+ ParkingBrake : false
+ Last Main Volume : 0
+ Last FM Freq : 10090
+ Last AM Freq : 1060
+ Max AV Sound Step : 45
+ MaxNavi TTS Sound Step : 45
+ Max Tone Step : 21
+ Last Dimming Mode : AUTO(0x0)
+ LastDayBrightness : 5
+ LastNightBrightness : 5
+ Last AVC Mode : 1
+ Last FM HD mode : 1
+ Last AM HD mode : 1
+ Last FM Preset Num : 0
+ Last AM Preset Num : 0
+ Last SXM Preset Num : 0
+ Gear Status : P(0x0)
+ Trip Unit : Unknown TripUnit : 0
+ Distance To Empty : 0
+ Ambient Temp C : 0
+ Ambient Temp F : 0
+ AudioCD Play Time : -1(0:0:-1)
+ MP3CD Play Time : -1(0:0:-1)
+ MyMusic Play Time : -1(0:0:-1)
+ USBMusic Play Time : 7(0:0:7)
+ USBVideo Play Time : -1(0:0:-1)
+ Drive Door Status : open
+ Assist Door Status : close
+ Trunk Door Status : open
+ Side Mirror Status : open
+ Vehicle Speed : 0
+ Last RRC Locked : false
+ Last FM2 Frequency : 8790
+ Last FM2 Preset Num : 1
+ IntegratedPreset Mode : true
+ CamVolumeControl Status : false
+ Reverse related Volume : 0
+ IGN3 Status : false
+ VIP Status : false
+ Last DRM Frequency : 0
+ Last Reverse Volume Prefered : 2
+ Last Auto Set Volume : 2
+ DTC Warning : 0
+ Last DRM PresetNumber : 1
+ Live Dynamic : false
+ ClariFi : false
+ QLS(Lite) : true
+ AVC Step : false
+ AMP Type : 2
+ RR Sound Warning : false
+ RL Sound Warning : false
+ None Camera : false
+ RCCA Warning RH : false
+ RCCA Warning LH : false
+ New Rheostat Support : true
+ Route Guide : false
+ FrontMicDetect : false
+ DRMicDetect : false
+ DriverSpeakerVolume : 0
+ PassengerSpeakerVolume : 0
+ CameraVolumeWiehSVMRVM : 0
+ BootModeReceivedElapsedTime: 23785
+ BootModeReceivedTime: 1554394362353
+======== VARIANT CODE from MICOM ======
+ vehicleVariant: JFPE(0x55)
+ countryVariant: US(0x01)
+ navigation: ACTIVATE
+ modem: ON
+ AmpType(MOST AMP): EXTERNAL_AMP
+ rearMonitor: OFF
+ radioRegion: STEP_10_200
+ RHD: LHD
+ Limo: SEDAN
+ Lexicon: LEXICON_AMP
+ parkingAssist: R_CAM
+ advancedCluster: OFF
+ HUD: OFF
+ rearUSB: OFF
+ RRC: OFF
+ CDC: OFF
+ rearMIC: OFF
+ HD: ON
+ DMB: OFF
+ CMMB: OFF
+ dvdRegion: WORLDWIDE
+ dvdLanguage: ENGLISH
+ InternalCDP: OFF
+ ExternalCDP: OFF
+ Telematics: ON
+ Diranarom: ON
+ DAB: OFF
+ HyType: DAUDIO_PLUS
+ CameraMode: ANALOG
+ GPS: OFF
+ feature_ex_cdp: OFF
+ subboard: ON
+ rds: OFF
+ adm: ON
